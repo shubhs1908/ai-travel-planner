@@ -3,7 +3,7 @@ import re
 import streamlit as st
 
 # Set your OpenRouter API key
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOUR-API-KEY"
 
 # Function to extract details from user input
 def extract_travel_details(user_input):
